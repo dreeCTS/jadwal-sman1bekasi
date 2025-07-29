@@ -1,0 +1,40 @@
+{
+  "name": "jadwal-ssg",
+  "type": "module",
+  "version": "2.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && tsc --noEmit && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@astrojs/partytown": "^2.1.4",
+    "@astrojs/react": "^4.3.0",
+    "@astrojs/sitemap": "^3.4.1",
+    "@fontsource/lato": "^5.2.6",
+    "@fontsource/poppins": "^5.2.6",
+    "@tailwindcss/vite": "^4.1.11",
+    "astro": "^5.11.2",
+    "astro-robots-txt": "^1.0.0",
+    "luxon": "^3.7.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "sharp": "^0.34.3",
+    "tailwindcss": "^4.1.11",
+    "workbox-window": "^7.3.0",
+    "zod": "^4.0.5"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.6.2",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vite-pwa/astro": "^1.1.0",
+    "typescript": "^5.8.3",
+    "vite-plugin-pwa": "^1.0.1"
+  },
+  "packageManager": "pnpm@10.11.1"
+}
