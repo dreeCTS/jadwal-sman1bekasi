@@ -21,7 +21,7 @@ export default defineConfig({
       registerType: "autoUpdate",
       manifest: {
         theme_color: "#0074d9",
-        name: "Jadwal Pelajaran SMAN 12 Kota Bekasi",
+        name: "Jadwal Pelajaran SMAN 1 Bekasi",
         short_name: "Jadwal Pelajaran",
         description:
           "Sebuah web yang berisikan jadwal pelajaran dari seluruh kelas",
