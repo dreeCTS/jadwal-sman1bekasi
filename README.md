@@ -66,3 +66,4 @@ Anda bisa melakukan perubahan secara local dan mengubah tampilan atau apapun ses
 ## Lisensi
 
 Project ini bernaung di bawah lisensi [GPL-3.0 License](LICENSE).
+# jadwal-mapel-sman1bekasi
